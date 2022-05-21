@@ -9,3 +9,6 @@
 - EdXposed
 - Magisk
 - all
+
+## 0.0.0.2
+- Perbaikan SharedPref tidak bekerja
